@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ecom:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37c8633b-c3d4-4222-8475-d9ba12b52e66" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/vendor/list.jsp" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OUHTg5FaUPE1AStiUL3JB8nLzI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Notification.DisplayName-DoNotAsk-WindowsDefender&quot;: &quot;Microsoft Defender configuration&quot;,
+    &quot;Notification.DoNotAsk-WindowsDefender&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Study/AIUB/Semester/10th/ADVANCED PROGRAMMING WITH JAVA/Final Term/Final Project/Our Project/ecom/pom.xml&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;805f08d8f8ca6d8dc29ddcac7e22a9e6&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Study\AIUB\Semester\10th\ADVANCED PROGRAMMING WITH JAVA\Final Term\Final Project\Our Project\ecom\src\main\java\ecom\security" />
+      <recent name="D:\Study\AIUB\Semester\10th\ADVANCED PROGRAMMING WITH JAVA\Final Term\Final Project\Our Project\ecom\src\main\webapp" />
+      <recent name="D:\Projects\ecom\src\main\webapp\WEB-INF\views" />
+      <recent name="D:\Projects\ecom\src\main\webapp\WEB-INF\views\user" />
+      <recent name="D:\Projects\ecom\src\main\java\ecom\controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Study\AIUB\Semester\10th\ADVANCED PROGRAMMING WITH JAVA\Final Term\Final Project\Our Project\ecom\src\main\webapp" />
+      <recent name="D:\Study\AIUB\Semester\10th\ADVANCED PROGRAMMING WITH JAVA\Final Term\Final Project\Our Project\ecom\src\main\webapp\WEB-INF\views\user\CSS" />
+      <recent name="D:\Projects\ecom\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ecom.controller" />
+      <recent name="ecom.service" />
+      <recent name="ecom.repository" />
+      <recent name="ecom.domain" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="com.poratu.idea.plugins.tomcat">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="contextPath" value="/ecom" />
+      <option name="docBase" value="D:\Study\AIUB\Semester\10th\ADVANCED PROGRAMMING WITH JAVA\Final Term\Final Project\Our Project\ecom\src\main\webapp" />
+      <option name="extraClassPath" value="" />
+      <option name="port" value="8082" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/8.5.86" />
+          <option name="path" value="C:/Program Files/Apache Software Foundation/Tomcat 8.5" />
+          <option name="version" value="8.5.86.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ecom" type="com.poratu.idea.plugins.tomcat">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="contextPath" value="/ecom" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="extraClassPath" value="" />
+      <option name="port" value="8082" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/8.5.86" />
+          <option name="path" value="C:/Program Files/Apache Software Foundation/Tomcat 8.5" />
+          <option name="version" value="8.5.86.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37c8633b-c3d4-4222-8475-d9ba12b52e66" name="Changes" comment="" />
+      <created>1681608252232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681608252232</updated>
+      <workItem from="1681608253545" duration="5457000" />
+      <workItem from="1681613741621" duration="5106000" />
+      <workItem from="1681786038200" duration="757000" />
+      <workItem from="1681786990389" duration="7163000" />
+      <workItem from="1681809185742" duration="6105000" />
+      <workItem from="1685519726449" duration="392000" />
+      <workItem from="1685520235198" duration="749000" />
+      <workItem from="1685521136290" duration="210000" />
+      <workItem from="1685555684295" duration="880000" />
+      <workItem from="1685559147219" duration="25000" />
+      <workItem from="1690542722667" duration="44000" />
+      <workItem from="1690542792814" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
