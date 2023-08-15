@@ -1,1 +1,1 @@
-This is my Advanced Programming with Java course project: a web-based library management system (Stack: Apache Maven, Spring Web MVC, MySQL).
+A web-based library management system that I created for my "Advanced Programming with Java" course project (Stack: Apache Maven, Spring MVC, MySQL).
